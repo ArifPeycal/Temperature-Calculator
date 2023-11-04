@@ -1,6 +1,6 @@
 # Temperature-Calculator
 
-##You have to develop an application to convert Fahrenheit to Celsius based on the 
+You have to develop an application to convert Fahrenheit to Celsius based on the 
 criteria below:
 1. The application must be developed in PHP (xampp/mamp)
 2. The PHP program must have the following inputs:
